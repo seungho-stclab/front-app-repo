@@ -1,4 +1,3 @@
-
       - name: Setup Kustomize
         uses: imranismail/setup-kustomize@v1
 
